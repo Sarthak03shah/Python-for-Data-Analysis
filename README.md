@@ -6,11 +6,11 @@ This project demonstrates the use of Python for performing data analysis and vis
 
 The project focuses on:
 
-Data cleaning and preprocessing.
+- Data cleaning and preprocessing.
 
-Exploratory data analysis (EDA) to understand patterns and trends.
+- Exploratory data analysis (EDA) to understand patterns and trends.
 
-Data visualization to communicate insights effectively.
+- Data visualization to communicate insights effectively.
 
 ## Key Features
 
@@ -64,5 +64,6 @@ Automating data cleaning and visualization workflows.
 
 Incorporating additional datasets for comparative analysis.
 
+---
 Thank you for exploring this project!
 
