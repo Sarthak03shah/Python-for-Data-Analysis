@@ -30,11 +30,11 @@ Identifying patterns and trends in the data.
 
 Creating insightful plots using:
 
-Matplotlib
+-Matplotlib
 
-Seaborn
+-Seaborn
 
-Plotly
+-Plotly
 
 ✅ Notebook Execution:
 
@@ -58,11 +58,11 @@ Jupyter Notebook
 
 ## Future Enhancements
 
-Extending the analysis with machine learning models.
+-Extending the analysis with machine learning models.
 
-Automating data cleaning and visualization workflows.
+-Automating data cleaning and visualization workflows.
 
-Incorporating additional datasets for comparative analysis.
+-Incorporating additional datasets for comparative analysis.
 
 ---
 Thank you for exploring this project!
